@@ -1,1 +1,3 @@
-# Projektbericht_Fernerkundung-MaschinellesLernen
+# Projektbericht: Fernerkundung-MaschinellesLernen
+
+Zugehörige R-Skripte
